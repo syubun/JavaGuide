@@ -37,7 +37,7 @@ footer: |-
 
 下面是星球提供的部分服务（点击下方图片即可获取知识星球的详细介绍）：
 
-![![星球服务](./images/generated/xingqiufuwu.png)
+![星球服务](./images/generated/xingqiufuwu.png)
 
 ## 公众号
 
