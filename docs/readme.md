@@ -16,7 +16,7 @@ footer: |-
   <a href="https://beian.miit.gov.cn/" target="_blank">鄂ICP备2020015769号-1</a> | 主题: <a href="https://vuepress-theme-hope.github.io/v2/" target="_blank">VuePress Theme Hope</a>
 ---
 
-![![Banner](./images/generated/xingqiu.png)
+![Banner](./images/generated/xingqiu.png)
 
 ## 关于网站
 
