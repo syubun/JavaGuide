@@ -165,7 +165,7 @@ Docker 设计时，就充分利用 **Union FS** 的技术，将其设计为**分
 
 比如我们想要搜索自己想要的镜像：
 
-![利用Docker Hub 搜索镜像](./images/generated/Screen%20Shot%202019-11-04%20at%208.21.39%20PM.png)
+![利用Docker Hub 搜索镜像](./images/generated/DockerHub搜索镜像.png)
 
 在 Docker Hub 的搜索结果中，有几项关键的信息有助于我们选择合适的镜像：
 
